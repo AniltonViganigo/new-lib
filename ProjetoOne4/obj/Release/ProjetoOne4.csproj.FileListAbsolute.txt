@@ -1,0 +1,6 @@
+C:\Users\vigan\OneDrive\Área de Trabalho\A\Projeto One4 C#\ProjetoOne4\ProjetoOne4\bin\Release\ProjetoOne4.dll
+C:\Users\vigan\OneDrive\Área de Trabalho\A\Projeto One4 C#\ProjetoOne4\ProjetoOne4\bin\Release\ProjetoOne4.pdb
+C:\Users\vigan\OneDrive\Área de Trabalho\A\Projeto One4 C#\ProjetoOne4\ProjetoOne4\obj\Release\ProjetoOne4.csproj.AssemblyReference.cache
+C:\Users\vigan\OneDrive\Área de Trabalho\A\Projeto One4 C#\ProjetoOne4\ProjetoOne4\obj\Release\ProjetoOne4.csproj.CoreCompileInputs.cache
+C:\Users\vigan\OneDrive\Área de Trabalho\A\Projeto One4 C#\ProjetoOne4\ProjetoOne4\obj\Release\ProjetoOne4.dll
+C:\Users\vigan\OneDrive\Área de Trabalho\A\Projeto One4 C#\ProjetoOne4\ProjetoOne4\obj\Release\ProjetoOne4.pdb
